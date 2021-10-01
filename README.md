@@ -1,1 +1,1 @@
-### Repository for best practices and sample code for Azure Cognitive ServicesS
+### Repository for best practices and sample code for Azure Cognitive Services
